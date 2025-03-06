@@ -1,5 +1,4 @@
-<h3 align="center">chưa đạt thợ thầy</h3>
-<h3 align="center"> <a > 📫 How to reach me : phamsontay2206@gmail.com </a>
+<h3 align="center"> <a > 📫 Gm@il : phamsontay2206@gmail.com </a>
 </h3>
 
 <h3 align="center">Connect with me:</h3>
