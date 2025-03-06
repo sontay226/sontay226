@@ -1,5 +1,11 @@
-<h3 align="center"> <a > 📫 Gm@il : phamsontay2206@gmail.com </a>
-</h3>
+# About Me 🔗
+
+👋 Hey everyone, I'm **Sơn Tây Phá Kén**  
+✨ **Fullstack Web Developer** ✨  
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/son-tay-pham-3a4558334/)  
+- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sontaypham226)  
+- 📧 **phamsontay2206@gmail.com** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
