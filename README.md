@@ -1,6 +1,7 @@
 # About Me 🔗
 
 👋 Hey everyone, I'm **Son Tay Pham**   
+✨ **How To Reach Me** ✨  
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/son-tay-pham-3a4558334/)  
 - [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sontaypham226)  
